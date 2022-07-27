@@ -11,6 +11,13 @@ units.
 Your team leader wants you to assist with this project, and you will be required to carry
 out a number of tasks using the Anaconda/Scikit-Learn Python ML framework and its components.
 
+This project is a collaboration of the following group members:
+
+- Alexandra Settle
+- David van Rooyen
+- Hammed Arowosegbe
+- Yao Kwadzo
+
 ## To complete this assignment:
 
 Carry out the following tasks
