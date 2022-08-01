@@ -27,9 +27,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yaokwadzo/Projects/machine-learning-predictive-models/src&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="machine-learning-predictive-models" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="machine-learning-predictive-models" />
@@ -63,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659036204188</updated>
       <workItem from="1659036225662" duration="17780000" />
+      <workItem from="1659352530672" duration="2301000" />
     </task>
     <servers />
   </component>
